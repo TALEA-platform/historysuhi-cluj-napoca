@@ -383,6 +383,9 @@ const TRANSLATIONS = {
     "n/a": "n.d.",
     "Cartier-level data are averages: they help comparisons, but they do not remove internal differences within each neighbourhood.": "Datele pe cartiere sunt medii: ajută la comparații, dar nu elimină diferențele interne din fiecare cartier.",
     "Municipal boundaries and cartier polygons used to make comparisons easier to read": "Limite municipale și poligoanele cartierelor, folosite pentru a face comparațiile mai ușor de citit",
+    "Water (excluded from the index)": "Apă (exclusă din indice)",
+    "At least half of this surface is water (rivers, lakes or sea). The index is not computed here: water has no vegetation and reflects little sunlight, so it would look \"exposed\" even though it is not a hot spot. Its cooling effect remains visible in the temperatures along the shores.": "Cel puțin jumătate din această suprafață este apă (râuri, lacuri sau mare). Indicele nu este calculat aici: apa nu are vegetație și reflectă puțină lumină solară, așa că ar părea „expusă” deși nu este o zonă caldă. Efectul ei de răcire rămâne vizibil în temperaturile de pe maluri.",
+    "In View 3, water is excluded from the overall heat exposure index and the two deeper-reading indices (30 m pixels at least half covered by water according to ESA WorldCover): with no vegetation and low reflectance it would look exposed to heat even though it is not. The area averages of these indices also count land only.": "În Vizualizarea 3, apa este exclusă din indicele de expunere generală la căldură și din cei doi indici de aprofundare (pixeli de 30 m acoperiți cel puțin pe jumătate de apă, conform ESA WorldCover): fără vegetație și cu reflectanță scăzută, ar părea expusă la căldură deși nu este. Mediile pe zone ale acestor indici iau în calcul tot doar uscatul.",
   },
 };
 
